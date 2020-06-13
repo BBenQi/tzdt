@@ -1,7 +1,7 @@
 # auto-study
 基于Autojs的学习强国挑战答题 搜题脚本
 
-下载地址：https://github.com/BBenQi/tzdt/releases/download/1.0.2/v1.0.2.tar.gz
+下载地址：https://github.com/BBenQi/tzdt/releases/download/1.0.2/search_v1.0.2.tar.gz
 
 ## 开启悬浮窗权限
 
